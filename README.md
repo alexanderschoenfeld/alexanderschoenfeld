@@ -81,11 +81,23 @@ Accenture · WPP · Margarete Steiff · Ravensburger
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexanderschoenfeld&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderschoenfeld&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alexanderschoenfeld&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alexanderschoenfeld&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alexanderschoenfeld&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderschoenfeld&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderschoenfeld&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderschoenfeld&layout=compact&theme=default&hide_border=true" height="165" />
+  </picture>
 </p>
 
-![Streak](https://streak-stats.demolab.com?user=alexanderschoenfeld&theme=dark&hide_border=true&background=0d1117)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alexanderschoenfeld&theme=dark&hide_border=true&background=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=alexanderschoenfeld&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=alexanderschoenfeld&theme=default&hide_border=true" />
+</picture>
 
 ---
 
